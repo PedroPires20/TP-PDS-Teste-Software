@@ -1,5 +1,7 @@
 # Trabalho Prático sobre Testes de Software
 
+O objetivo deste trabalho prático é conhecer e ter contato com implementações reais de testes de software em sistemas práticos de código aberto e que possuam certa relevância. Para este trabalho foram escolhidos os sistemas JabRef e Scrapy, implementados nas linguagens Java e Python, respectivamente. O JabRef possui cerca de 2400 estrelas no seu repositório no GitHub que pode ser acessado por esse [link](https://github.com/JabRef/jabref). O Scrapy, por sua vez, possui cerca de 42300 estrelas em seu repositório, que pode ser acessado pelo seguinte [link](https://github.com/JabRef/jabref).
+
 ## JabRef
 
 JabRef é um sistema multi-plataforma e open-soure para gerenciamento de referências e citações escrito na linguagem Java. Esse sistema auxilia os usuários a coletar e organizar referências bibliográficas e citações. Além disso, o sistema também auxilia na busca por um *paper* específico e na descoberta das pesquisas mais recentes de um tópico.
